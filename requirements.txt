@@ -1,0 +1,4 @@
+openai
+matplotlib
+pysentiment2
+pandas
